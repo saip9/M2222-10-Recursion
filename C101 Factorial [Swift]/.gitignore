@@ -1,0 +1,10 @@
+\#*\#
+
+*~
+
+*.sh
+rm -rf .build
+
+rm -rf .merlin
+
+rm -rf .merlin0
